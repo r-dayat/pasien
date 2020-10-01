@@ -1,0 +1,25 @@
+.form-index .btn{
+    font-size: 1.3em;
+    letter-spacing: 0.3em;
+    padding: 12px 24px;
+    /* display: inline-block; */
+    opacity: 0.8;
+    border-radius: 10px;
+    width: 200px;
+}
+
+.form-index{
+    padding-top: 30px;
+}
+
+.form-index p{
+    padding-bottom: 50px;
+    font-size: 1.3em;
+}
+
+
+@media screen and (max-width: 1000px){
+    .form-index .btn{
+        margin-bottom: 50px;
+    }
+}

@@ -1,0 +1,15 @@
+.form-login{
+    padding-top: 30px;
+}
+
+.form-login p{
+    font-size: 1.3em;
+    padding-bottom: 20px;
+}
+
+
+@media screen and (max-width: 576px){
+    .form-login .btn{
+        margin-bottom: 50px;
+    }
+}

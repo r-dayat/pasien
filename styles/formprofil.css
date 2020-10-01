@@ -1,0 +1,14 @@
+.profil-pasien{
+    padding-top: 50px;
+    min-height: 900px;
+}
+
+.profil-pasien p{
+    font-size: 1.3em;
+    padding-bottom: 20px;
+}
+
+.profil-pasien .btn{
+    margin-top: 10px;
+    margin-bottom: 70px;
+}
